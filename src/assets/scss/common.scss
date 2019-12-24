@@ -1,0 +1,17 @@
+.manager{
+  // height: 90%;
+  // padding-bottom: 20px;
+  height: 95%;
+  overflow: hidden;
+  border-bottom: 1px solid #ddd;
+  &-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .el-button{
+    padding: 12px 20px;
+    // height: 35px;
+    // width: 80px;
+  }
+}
